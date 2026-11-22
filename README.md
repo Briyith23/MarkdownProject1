@@ -1,3 +1,11 @@
 # Markdown and Git Homework
 
-Este porjecto sirve para aprender Git
+Este proyecto sirve para aprender Git
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)

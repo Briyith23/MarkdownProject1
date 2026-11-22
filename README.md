@@ -13,6 +13,9 @@ Este proyecto sirve para aprender Git. Podemos consultar la [Git Documentation](
 ## Introduction
 
 Este proyecto permite practicar Git y Markdown.
+
+Con esta práctica aprenderemos a utilizar ramas, realizar commits y gestionar los cambios de un proyecto.
+
 ![Logo de Git](images/git.logo.png)
 
 ## Features

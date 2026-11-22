@@ -19,6 +19,12 @@ Este proyecto permite practicar Git y Markdown.
 
 En este apartado se explicarán las características del proyecto.
 
+| Feature | Description | Status |
+|---------|-------------|--------|
+| Git | Control de versiones del proyecto | Completed |
+| Markdown | Crear documentación del proyecto | In Progress |
+| GitHub | Publicar el proyecto en Internet | Pending |
+
 ## Installation
 
 Para trabajar con el proyecto necesitamos Git y Visual Studio Code.

@@ -25,6 +25,14 @@ En este apartado se explicarán las características del proyecto.
 | Markdown | Crear documentación del proyecto | In Progress |
 | GitHub | Publicar el proyecto en Internet | Pending |
 
+**Git** es una herramienta importante para controlar las versiones de un proyecto.
+
+*Markdown* permite crear documentos de forma sencilla.
+
+El comando `git commit` sirve para guardar los cambios en el historial.
+
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 ## Installation
 
 Para trabajar con el proyecto necesitamos Git y Visual Studio Code.
@@ -32,6 +40,18 @@ Para trabajar con el proyecto necesitamos Git y Visual Studio Code.
 ## Usage
 
 En este apartado veremos cómo utilizar el proyecto.
+
+```python
+# This is a simple Python function to add two numbers
+
+def add_numbers(a, b):
+    """Return the sum of a and b."""
+    return a + b
+
+# Example usage
+result = add_numbers(5, 7)
+print("The sum is:", result)
+```
 
 ## License
 

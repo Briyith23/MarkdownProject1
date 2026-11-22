@@ -1,0 +1,134 @@
+commit 5a54a9a00b367fd63591b281e37267f2bf5c1e5c
+Merge: 50986aa 628fd59
+Author: Erika Briyith Garay Prado <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 23:56:09 2026 +0100
+
+    Merge pull request #2 from Briyith23/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 628fd592bc0ac7dff5a2ecff04c298cc2fbe5fb7
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 23:33:47 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 28 ++++++++++++++++++++++++++++
+ 1 file changed, 28 insertions(+)
+
+commit 50986aafe47e5e846ec973e2e5087a074c2c72b0
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 23:01:22 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 107 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 107 insertions(+)
+
+commit 14b077ae0d72fce55c2c988c949fdcf2b955188b
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 22:56:58 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit d56ce99cc146797d5fabf86c7a1f5c6d13e7c338
+Merge: 30cf3c7 7f6fb7d
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 22:48:34 2026 +0100
+
+    Merge add-license branch into main
+
+commit 7f6fb7d5ee81030da92d0d4dc9929c0d3658c9ab
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 22:41:40 2026 +0100
+
+    Add MIT License
+
+ LICENSE.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 30cf3c7dce08c987ef991be45b74d194a303785d
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 22:34:21 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+
+commit f2cef5875a4a7aa5a7cef028467e6279c7866680
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 22:27:23 2026 +0100
+
+    Add feature list table to
+    README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 79aee40a5e147b7c1ab0ab5a667c9eed4e1f3e50
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 22:20:47 2026 +0100
+
+    Add image to README
+
+ README.md           |  10 ++++++++++
+ images/git.logo.png | Bin 0 -> 4701 bytes
+ 2 files changed, 10 insertions(+)
+
+commit 0f539206452b6d30da45749a862729699b19305c
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 22:01:40 2026 +0100
+
+    Add sections to README, corregido
+
+ README.md | 18 ++++++++++--------
+ 1 file changed, 10 insertions(+), 8 deletions(-)
+
+commit a8a3918deeeb888b536d04d6c3ec9cf4071b73ff
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 21:53:34 2026 +0100
+
+    Add sections to README
+
+ README.md | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+commit ce3394c7dbdae7b78ac609b20dbddc542b64b172
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 21:49:53 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b2c651357c1ede39ae6892e1d85a0d1648e32778
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 21:43:14 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 4ee3a1176e0f6c07679f33651ccab0ead9cc8562
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 21:33:36 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 9dae8a7b549db3492a2f65b0d9cb57c487c46c54
+Author: Erika <erigarpra@iespoblenou.org>
+Date:   Sun Nov 22 21:19:01 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)

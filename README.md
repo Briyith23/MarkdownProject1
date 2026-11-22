@@ -11,12 +11,22 @@ Este proyecto sirve para aprender Git. Podemos consultar la [Git Documentation](
 - [License](#license)
 
 ## Introduction
+
 Este proyecto permite practicar Git y Markdown.
+![Logo de Git](images/git.logo.png)
+
 ## Features
+
 En este apartado se explicarán las características del proyecto.
+
 ## Installation
+
 Para trabajar con el proyecto necesitamos Git y Visual Studio Code.
+
 ## Usage
+
 En este apartado veremos cómo utilizar el proyecto.
+
 ## License
+
 Aquí se explicará la licencia del proyecto.
